@@ -1,6 +1,15 @@
 # arduino-magnetism
 Control an electromagnet with an ESP32
 
+# Warning ! ! !
+
+- I do not take any responsibilty for damage to your eletronics or otherwise. Use this at your own risk.
+- The electromagnet may heat up significantly if left in the HIGH/on state for long periods of time.
+- For best results DO NOT CONNECT THE ELECTORMAGNET TO THE ESP32 TILL YOU UNPLUG IT FROM YOUR USB ON YOUR LAPTOP.
+- Program the ESP32 with your code. Then unplug it from your laptop.
+- Then reconnect to wall-power via a USB power adapter. This configuration will run the ESP32 and activate/deactivate the magnet.
+- You may view the change in magnetism with the visualization sheet below and the LED on the ESP32.
+
 # Parts list
 
 ESP32:          https://www.amazon.com/dp/B08D5ZD528?ref=ppx_yo2ov_dt_b_product_details&th=1
