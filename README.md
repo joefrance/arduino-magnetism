@@ -7,6 +7,14 @@ ESP32:          https://www.amazon.com/dp/B08D5ZD528?ref=ppx_yo2ov_dt_b_product_
 Electormagnet:  https://www.amazon.com/dp/B07H3V8N2Q?psc=1&ref=ppx_yo2ov_dt_b_product_details
 Jumper wires:   https://www.amazon.com/gp/product/B01EV70C78/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1 
 
+# Wiring diagram
+
+```
+Magnet.GND <===> ESP32.GND
+Magnet.VCC <===> ESP32.VIN
+Magnet.SIG <===> ESP32.D2
+```
+
 # Code
 
 ```
