@@ -9,6 +9,8 @@ Electormagnet:  https://www.amazon.com/dp/B07H3V8N2Q?psc=1&ref=ppx_yo2ov_dt_b_pr
 
 Jumper wires:   https://www.amazon.com/gp/product/B01EV70C78/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1 
 
+See mag field:  https://www.amazon.com/gp/product/B0C66CYSC7/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
+
 # Wiring diagram
 
 ```
